@@ -55,7 +55,7 @@ function App() {
     );
 }
 function Header() {
-    return <h1>Fast React Pizza Co.</h1>;
+    return <h1 style={{ color: "red" }}>Fast React Pizza Co.</h1>;
 }
 
 function Menu() {
